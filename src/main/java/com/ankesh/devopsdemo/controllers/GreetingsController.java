@@ -9,7 +9,7 @@ public class GreetingsController {
     @RequestMapping("/greet")
     public String greet() {
 
-        return "Hello There";
+        return "Hello, Welcome to the DevopsDemo";
     }
 
 }
